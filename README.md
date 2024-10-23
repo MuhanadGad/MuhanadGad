@@ -32,3 +32,5 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhanadGad&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
+<a href="https://app.daily.dev/muhanaddevelops"><img src="https://api.daily.dev/devcards/v2/AOGyvDbFjO7xAlQlrOACh.png?type=default&r=e0w" width="356" alt="Muhanad's Dev Card"/></a>
+
